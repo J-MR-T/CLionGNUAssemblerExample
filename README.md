@@ -1,6 +1,8 @@
 # CLionGNUAssemblerExample
 Example for a CLion Setup to write Assembly in isolation and C and Assembly combined
 
+## Installing the WSL Toolchain
+If the platform you are targetting is linux, use https://www.jetbrains.com/help/clion/how-to-use-wsl-development-environment-in-product.html to setup the WSL Toolchain for CLion
 
 ## Trying it out
 1. Open this directory as a CLion Project.
