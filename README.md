@@ -1,4 +1,6 @@
 # CLionGNUAssemblerExample
+Example for a CLion Setup to write Assembly in isolation and C and Assembly combined
+
 
 ## Trying it out
 1. Open this directory as a CLion Project.
